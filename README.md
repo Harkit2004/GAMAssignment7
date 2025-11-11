@@ -2,6 +2,8 @@
 
 ## Watch Demo
 
+https://github.com/user-attachments/assets/50f7fd24-e7c0-4368-8a60-25577791d758
+
 ## Overview
 
 I added three grounded movement modes (Idle, Walk, Run) and a Jump. Arrow keys move the character; holding Shift switches Walk to Run; Space triggers a jump when grounded. A simple floor is rendered at the bottom of the scene so the jump arc, landing, and grounded state are clearly visible. Left-facing animations reuse the right-facing sheets by mirroring UVs, so you only need Idle.png, Walk.png, Run.png, and Jump.png.
